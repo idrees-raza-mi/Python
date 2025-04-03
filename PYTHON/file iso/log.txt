@@ -1,0 +1,1 @@
+python is easy and very efficient programming language for the compiler and the compiler itself to be able to compile the python code
